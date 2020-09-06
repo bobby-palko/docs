@@ -19,6 +19,7 @@ ahvz
 ajp
 aker
 alef
+alertmanager
 alexey
 alives
 allmasquerade
@@ -38,6 +39,7 @@ apiserver
 apparmor
 appimage
 appletalk
+approvers
 appserver
 apxs
 aren
@@ -289,6 +291,7 @@ dev
 devel
 devops
 devtmpfs
+dex
 df
 dhclient
 dhparams
@@ -307,6 +310,7 @@ distros
 dists
 django
 dkim
+dlncr
 dmg
 dmitriy
 dmz
@@ -416,6 +420,7 @@ file1
 filebeat
 filecap
 filecaps
+fileglob
 filemode
 filepath
 filepaths
@@ -481,6 +486,7 @@ gitolite
 gitosis
 gitpython
 gitweb
+gke
 glibc
 glish
 globals
@@ -494,6 +500,7 @@ gnulinux
 gnutls
 gogs
 golang
+goldmark
 goroutine
 goroutines
 goto
@@ -571,6 +578,7 @@ hulu
 hvc0
 hybla
 hyperefficient
+hyperparameter
 hypervisor
 hypervisors
 IaC
@@ -608,6 +616,7 @@ impor
 incentivized
 inet
 inet6
+ingressgateway
 ini
 initializer
 initramfs
@@ -653,6 +662,7 @@ jdbc
 jdk
 Jellyfin
 jenkinsfile
+jenkinsx
 jetpack
 jez
 jk
@@ -671,6 +681,7 @@ jsonpath
 julialang
 jumpbox
 jupyter
+jx
 kakfa
 kbits
 keepalive
@@ -704,10 +715,12 @@ kube
 kubeadm
 kubeconfig
 kubectl
+kubeflow
 kubelet
 kubelets
 kubernetes
 kubespray
+kustomize
 kuznetosv
 lambdabunker
 laravel
@@ -843,6 +856,7 @@ mineshafts
 miniconda
 miniconda3
 minification
+minikf
 minikube
 minimalistic
 minio
@@ -942,6 +956,7 @@ nexthop
 nftables
 ng
 nginx
+nginxdemos
 ngrok
 ngx
 nickcolor
@@ -971,6 +986,7 @@ novaclient
 novell
 npm
 npmjs
+npx
 nrcpt
 ns1
 ns2
@@ -983,6 +999,7 @@ nullval
 num
 numpy
 nvim
+nvm
 octopress
 odoo
 oftc
@@ -1090,6 +1107,7 @@ pre4
 precompiled
 preconfigured
 prefork
+preinstall
 preinstalled
 premade
 prepend
@@ -1167,9 +1185,12 @@ redir
 redis
 redmin
 redmine
+redstone
 reenable
 reenabling
+referer
 refspec
+regexes
 reimported
 reindexing
 reinstalls
@@ -1459,6 +1480,7 @@ transcode
 transcoder
 transcoding
 trello
+triaging
 truststore
 tt
 ttl
@@ -1514,6 +1536,7 @@ untruncated
 untrust
 untrusted
 unversioned
+upserted
 upsize
 uri
 uris
